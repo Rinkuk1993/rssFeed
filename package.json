@@ -1,0 +1,31 @@
+{
+  "name": "rssfeed",
+  "version": "1.0.0",
+  "description": "Simple AngularJs App for rssfeed",
+  "main": "myserver.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+  "node": "4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rinkuk1993/rssFeed.git"
+  },
+  "keywords": [
+    "rssfeed",
+    "simple",
+    "angularjs"
+  ],
+  "author": "Rinku Kumari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rinkuk1993/rssFeed/issues"
+  },
+  "homepage": "https://github.com/Rinkuk1993/rssFeed#readme"
+}
